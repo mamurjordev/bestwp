@@ -72,7 +72,7 @@
     <!-- JavaScript Libraries -->
   
 
-
+<?php wp_footer();?>
 </body>
 
 </html>
